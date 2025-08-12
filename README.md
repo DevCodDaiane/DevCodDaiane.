@@ -6,7 +6,7 @@ Meu portfólio pessoal, com projetos desenvolvidos em HTML e CSS, para demonstra
 Bem-vindo ao meu perfil no GitHub. Sou uma desenvolvedora Front-end em transição de carreira, apaixonada por criar interfaces intuitivas e experiências de usuário agradáveis. Atualmente, busco minha primeira oportunidade na área de tecnologia.
 
 ## Sobre Mim
-Com uma base sólida em gestão e negócios, decidi me dedicar ao mundo do desenvolvimento web. Minha jornada me levou a aprofundar conhecimentos em tecnologias como HTML e CSS, além de mergulhar em projetos práticos que demonstram minhas habilidades de codificação e design.
+Com uma base sólida no ambiente corporativo, com expertise em gestão de processos, análise de dados e suporte comercial., decidi me dedicar ao mundo do desenvolvimento web. Minha jornada me levou a aprofundar conhecimentos em tecnologias como HTML e CSS, além de mergulhar em projetos práticos que demonstram minhas habilidades de codificação e design.
 
 ## Meus Projetos
 Aqui estão alguns dos meus projetos mais recentes:
