@@ -26,4 +26,4 @@ Uma plataforma de curadoria de produtos afiliados. Este projeto exemplifica minh
 * **Controle de Versão:** Git e GitHub
 
 ## Contato
-Você pode me encontrar e se conectar comigo através do meu [**perfil no LinkedIn**](www.linkedin.com/in/daiane-tech)
+Você pode me encontrar e se conectar comigo através do meu [perfil no LinkedIn](https://www.linkedin.com/in/daiane-tech)
